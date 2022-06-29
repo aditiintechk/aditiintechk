@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditi Deshpande [@Aditi002-holo]
+- 👋 Hi, I’m Aditi Deshpande [@Aditi002-holo](@Aditi002-holo)
 - 👣 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - ⚡ I’m looking to collaborate on Developing Websites/Web Apps
