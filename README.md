@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 📫 How to reach me aditideshpande2908@gmail.com
 
-## My Github Streak
+My Github Streak
 
 <a href="https://github.com/Aditi002-holo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi002-holo&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
