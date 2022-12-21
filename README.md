@@ -2,9 +2,9 @@
 - 👣 I’m interested in Front-End Development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Typescript and React.
 - 📫 How to reach me:
-    * Email: aditideshpande2908@gmail.com 
-    * LinkedIn: [Aditi Deshpande](https://www.linkedin.com/in/aditi-deshpande-b6966122a/)
-    * Twitter: [aditiintechk](https://twitter.com/aditiintechk)
+    * Email    : aditideshpande2908@gmail.com 
+    * LinkedIn : [Aditi Deshpande](https://www.linkedin.com/in/aditi-deshpande-b6966122a/)
+    * Twitter  : [aditiintechk](https://twitter.com/aditiintechk)
 
 
 
