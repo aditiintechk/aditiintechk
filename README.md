@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aditi Deshpande [Aditi002-holo](https://github.com/Aditi002-holo?tab=repositories)
 - 👣 I’m interested in Front-End Development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Typescript and React.
-- 📫 How to reach me 
-      - aditideshpande2908@gmail.com
+- 📫 How to reach me aditideshpande2908@gmail.com, [My LinkedIn](https://www.linkedin.com/in/aditi-deshpande-b6966122a/), [I tweet here](https://twitter.com/aditiintechk)
 
 
 
