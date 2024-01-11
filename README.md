@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m Aditi </h2>
 
-<p>Aspiring Full-stack web developer with a background in SAP BI and a love for UI/UX. Currently learning HTML, CSS, JavaScript, Typescript, Python and React. Experienced in pair programming and collaboration with various developers across the world.</p>
+<p>Aspiring Full-stack web developer with a knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
@@ -9,7 +9,8 @@
 > I’m currently learning:
 > > [Typescript](https://www.typescriptlang.org/) <br/>
 > > [Flask](https://flask.palletsprojects.com/en/3.0.x/) <br/>
-> > [Tailwind](https://tailwindcss.com/)
+> > [Tailwind](https://tailwindcss.com/) <br/>
+> > [React](https://react.dev/)
 
 <br/>
 
