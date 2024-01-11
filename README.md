@@ -18,6 +18,18 @@
 
 <br/>
 
+> I hope some of my projects will be useful for you:
+> > [countdown-timer-loop](https://aditi002-holo.github.io/countdown-timer-loop/) - loops a 10/30/60 seconds timer for given number of times. <br/>
+> > [color-scheme-generator](https://aditi002-holo.github.io/color-scheme-generator/) - a cool palette generator with various scheme <br/>
+> > [oboesūji](https://aditi002-holo.github.io/oboeSuji/) - learn & practice japanese numbers <br/>
+> > [passowrd-generator](https://aditi002-holo.github.io/password-generator/) - a password generator with copy to clipboard feature <br/>
+> 
+> For my fellow BTS and Haikyuu enthusiasts:
+> > [haikyu-quote-generator](https://aditi002-holo.github.io/haikyu-quote-generator/) - quotes that can change your life. <br/>
+> > [min-suga-meme-picker](https://aditi002-holo.github.io/min-suga-meme-picker/) - pick a suga meme according to your mood! <br/>
+
+<br/>
+
 > 📫 How to reach me:
 > > Email    : aditideshpande2908@gmail.com <br/>
 > > LinkedIn : [Aditi Deshpande](https://www.linkedin.com/in/aditi-deshpande-b6966122a/) <br/>
