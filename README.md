@@ -3,7 +3,7 @@
 <p>Aspiring Full-stack web developer with a background in SAP BI and a love for UI/UX. Currently learning HTML, CSS, JavaScript, Typescript, Python and React. Experienced in pair programming and collaboration with various developers</p>
 
 > I’m currently working on:
-> > [restimer - private repo]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
+> > [restimer: private repo]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
 > > [biblio-stack](https://github.com/Aditi002-holo/biblio-stack) - An app that tracks our reads & store our thoughts/learings throughout the year<br/>
 > 
 > I’m currently learning:
