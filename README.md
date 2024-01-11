@@ -1,15 +1,41 @@
-- 👋 Hi, I’m Aditi Deshpande [Aditi002-holo](https://github.com/Aditi002-holo?tab=repositories)
-- 👣 I’m interested in Front-End Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Typescript, Python and React.
-- 📫 How to reach me:
-    * Email    : aditideshpande2908@gmail.com  
-    * LinkedIn : [Aditi Deshpande](https://www.linkedin.com/in/aditi-deshpande-b6966122a/)
-    * Twitter  : [aditiintechk](https://twitter.com/aditiintechk)
+<h2>👋 Hi, I’m Aditi </h2>
+
+<p>Aspiring Full-stack web developer with a background in SAP BI and a love for UI/UX. Currently learning HTML, CSS, JavaScript, Typescript, Python and React. Experienced in pair programming and collaboration with various developers</p>
+
+> I’m currently working on:
+> > [restimer - private repo]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
+> > [biblio-stack](https://github.com/Aditi002-holo/biblio-stack) - An app that tracks our reads & store our thoughts/learings throughout the year<br/>
+> 
+> I’m currently learning:
+> > [Typescript](https://www.typescriptlang.org/) <br/>
+> > [Flask](https://flask.palletsprojects.com/en/3.0.x/) <br/>
+> > [Tailwind](https://tailwindcss.com/)
+
+<br/>
+
+> 💻 My Stack:
+> > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi002-holo&layout=compact&show_icons=true&theme=onedark)
+
+<br/>
+
+> 📫 How to reach me:
+> > Email    : aditideshpande2908@gmail.com <br/>
+> > LinkedIn : [Aditi Deshpande](https://www.linkedin.com/in/aditi-deshpande-b6966122a/) <br/>
+> > Twitter  : [aditiintechk](https://twitter.com/aditiintechk) <br/>
+
 
 
 
 
 <!---
-Aditi002-holo/Aditi002-holo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+> I hope some of my projects will be useful for you:
+> > [countdown-timer-loop](https://aditi002-holo.github.io/countdown-timer-loop/) - An app that loops a 10/30/60 seconds timer for given number of times. You can use it to polish your skills or for short workouts. <br>
+> > [biblio-stack](https://github.com/Aditi002-holo/biblio-stack) - An app that tracks our reads & store our thoughts/learings throughout the year<br/>
+> 
+> For BTS and Haikyuu enthusiasts:
+> > [Typescript](https://www.typescriptlang.org/) <br/>
+> > [Flask](https://flask.palletsprojects.com/en/3.0.x/) <br/>
+> > [Tailwind](https://tailwindcss.com/)
+
+<br/>
 --->
