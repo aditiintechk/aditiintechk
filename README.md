@@ -3,7 +3,7 @@
 <p>Aspiring Full-stack web developer with a background in SAP BI and a love for UI/UX. Currently learning HTML, CSS, JavaScript, Typescript, Python and React. Experienced in pair programming and collaboration with various developers</p>
 
 > I’m currently working on:
-> > [restimer: private repo]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
+> > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy.<br/>
 > > [biblio-stack](https://github.com/Aditi002-holo/biblio-stack) - An app that tracks our reads & store our thoughts/learings throughout the year<br/>
 > 
 > I’m currently learning:
@@ -20,9 +20,9 @@
 
 > I hope some of my projects will be useful for you:
 > > [countdown-timer-loop](https://aditi002-holo.github.io/countdown-timer-loop/) - loops a 10/30/60 seconds timer for given number of times. <br/>
-> > [color-scheme-generator](https://aditi002-holo.github.io/color-scheme-generator/) - a cool palette generator with various scheme <br/>
-> > [oboesūji](https://aditi002-holo.github.io/oboeSuji/) - learn & practice japanese numbers <br/>
-> > [passowrd-generator](https://aditi002-holo.github.io/password-generator/) - a password generator with copy to clipboard feature <br/>
+> > [color-scheme-generator](https://aditi002-holo.github.io/color-scheme-generator/) - a cool palette generator with various schemes. <br/>
+> > [oboesūji](https://aditi002-holo.github.io/oboeSuji/) - learn & practice japanese numbers. <br/>
+> > [passowrd-generator](https://aditi002-holo.github.io/password-generator/) - a password generator with a copy to clipboard feature. <br/>
 > 
 > For my fellow BTS and Haikyuu enthusiasts:
 > > [haikyu-quote-generator](https://aditi002-holo.github.io/haikyu-quote-generator/) - quotes that can change your life. <br/>
