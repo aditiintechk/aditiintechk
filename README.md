@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m Aditi </h2>
 
-<p>Aspiring Full-stack web developer with a knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
+<p>Aspiring Front-end developer with a knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy. (coding with [ayuni](https://github.com/ayuninotayutu) and [martin](https://github.com/MBlore))<br/>
@@ -28,6 +28,12 @@
 > For my fellow BTS and Haikyuu enthusiasts:
 > > [haikyu-quote-generator](https://aditi002-holo.github.io/haikyu-quote-generator/) - quotes that can change your life. <br/>
 > > [min-suga-meme-picker](https://aditi002-holo.github.io/min-suga-meme-picker/) - pick a suga meme according to your mood! <br/>
+
+<br/>
+
+> When I am not coding, I -
+> > read mangas, dark fictions & books on psychology <br/>
+> > learn Japanese
 
 <br/>
 
