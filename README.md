@@ -4,7 +4,6 @@
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy. (coding with [ayuni](https://github.com/ayuninotayutu) and [martin](https://github.com/MBlore))<br/>
-> > [biblio-stack](https://github.com/Aditi002-holo/biblio-stack) - An app that tracks our reads & helps us store and save our thoughts/learings throughout the year.<br/>
 > 
 > I’m currently learning:
 > > [Typescript](https://www.typescriptlang.org/) <br/>
