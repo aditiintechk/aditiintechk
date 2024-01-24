@@ -4,6 +4,7 @@
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy. (coding with [ayuni](https://github.com/ayuninotayutu) and [martin](https://github.com/MBlore))<br/>
+> > Learning TypeScript by building games with the help of [TypeScript Gamified Book](https://paulasantamaria.gumroad.com/l/typescript-gamified)
 > 
 > I’m currently learning:
 > > [Typescript](https://www.typescriptlang.org/) <br/>
