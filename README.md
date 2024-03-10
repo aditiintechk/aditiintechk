@@ -4,13 +4,12 @@
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy. (coding with [ayuni](https://github.com/ayuninotayutu) and [martin](https://github.com/MBlore))<br/>
-> > Learning TypeScript by building games with the help of [TypeScript Gamified Book](https://paulasantamaria.gumroad.com/l/typescript-gamified)
+> > Building japanese-it - A fun way to master basics of Japanese (using this opportunity to learn Japanese and Coding).
 > 
 > I’m currently learning:
-> > [Typescript](https://www.typescriptlang.org/) <br/>
-> > [Flask](https://flask.palletsprojects.com/en/3.0.x/) <br/>
-> > [Tailwind](https://tailwindcss.com/) <br/>
-> > [React](https://react.dev/)
+> > Typescript <br/>
+> > SASS/SCSS <br/>
+> > React
 
 <br/>
 
