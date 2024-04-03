@@ -4,6 +4,7 @@
 
 > I’m currently working on:
 > > [restimer: private]() - An app for customer service agents to track their crucial breaks to improve overall performance & accuracy. (coding with [ayuni](https://github.com/ayuninotayutu) and [martin](https://github.com/MBlore))<br/>
+> > Building name-the-capitals - A game to learn and memorize capitals of all the countries of the world! It gets pretty interesting!
 > > Building japanese-it - A fun way to master basics of Japanese (using this opportunity to learn Japanese and Coding).
 > 
 > I’m currently learning:
