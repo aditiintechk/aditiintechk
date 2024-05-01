@@ -4,12 +4,13 @@
 
 > I’m currently working on:
 > > [capitals-game](https://github.com/aditiintechk/capitals-game) - A game to learn and memorize capitals of all the countries of the world! It gets pretty interesting! <br/>
+> > coding algorithms and data-structures to learn fundamentals and unit testing. <br/>
 > 
 > I’m currently learning:
 > > Typescript <br/>
 > > SASS/SCSS <br/>
 > > Promises <br/>
-> > 
+> > DSA <br/>
 
 <br/>
 
