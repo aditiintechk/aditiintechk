@@ -7,10 +7,7 @@
 > > coding algorithms and data-structures to learn fundamentals and unit testing. <br/>
 > 
 > I’m currently learning:
-> > Typescript <br/>
-> > SASS/SCSS <br/>
-> > Promises <br/>
-> > DSA <br/>
+> > React <br/>
 
 <br/>
 
@@ -19,20 +16,10 @@
 
 <br/>
 
-> I hope some of my projects will be useful for you:
-> > [color-scheme-generator](https://aditiintechk.github.io/color-scheme-generator/) - a cool palette generator with various schemes. <br/>
-> > [oboesūji](https://aditiintechk.github.io/oboeSuji/) - learn & memorize japanese numbers. <br/>
-> > [passowrd-generator](https://aditiintechk.github.io/password-generator/) - a password generator with a copy to clipboard feature. <br/>
-> 
-> For my fellow BTS and Haikyuu enthusiasts:
-> > [haikyu-quote-generator](https://aditiintechk.github.io/haikyu-quote-generator/) - quotes that can change your life. <br/>
-> > [min-suga-meme-picker](https://aditiintechk.github.io/min-suga-meme-picker/) - pick a suga meme according to your mood! <br/>
-
-<br/>
-
 > When I am not coding, I -
 > > read mangas, dark fictions & books on psychology <br/>
-> > practise touch typing
+> > learn Japanese
+> > wander
 
 <br/>
 
