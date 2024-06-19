@@ -2,12 +2,9 @@
 
 <p>Front-end developer with the knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
 
-> I’m currently working on:
-> > [capitals-game](https://github.com/aditiintechk/capitals-game) - A game to learn and memorize capitals of all the countries of the world! It gets pretty interesting! <br/>
-> > coding algorithms and data-structures to learn fundamentals and unit testing. <br/>
-> 
 > I’m currently learning:
-> > React <br/>
+> > React (Scrimba) <br/>
+> > Javascript Promises (Lydia Hallie & Other resources) <br/>
 
 <br/>
 
