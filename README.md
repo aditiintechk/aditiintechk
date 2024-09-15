@@ -3,8 +3,8 @@
 <p>Front-end developer with the knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
 
 > I’m currently learning:
-> > Next.js Development <br/>
-> > Advanced JavaScript <br/>
+> > Next.js Development (building bibliostack) <br/>
+> > Advanced JavaScript (scrimba) <br/>
 
 <br/>
 
