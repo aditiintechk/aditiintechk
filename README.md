@@ -12,8 +12,9 @@
 > > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiintechk&layout=compact&show_icons=true&theme=onedark)
 
 <br/>
+
 > Codewars:
-> > https://www.codewars.com/users/aditiintechk/badges/small
+> > ![image](https://www.codewars.com/users/aditiintechk/badges/small)
 
 <br/>
 
