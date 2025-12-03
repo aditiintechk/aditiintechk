@@ -1,15 +1,10 @@
 <h2>👋 Hi, I’m <a href='https://aditiintechk.vercel.app/' target='_blank'>Aditi Deshpande</a>.</h2>
 
-<p>Front-end developer with the knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
+<p>Software developer with the knowledge stack of HTML, CSS, JavaScript, Typescript, Python, React & Figma. Experienced in pair programming and collaboration with various developers across the world.</p>
 
-> I’m currently learning:
-> > Next.js Development (building thoughtsonbooks) <br/>
-> > Advanced JavaScript (scrimba & frontendmasters) <br/>
-
-<br/>
-
-> Codewars:
-> > ![image](https://www.codewars.com/users/aditiintechk/badges/small)
+> I’m currently building:
+> > Moorlee'z: An Ecommerce Webiste for my friend's art business <br/>
+> > Participating in dev.to hackathon challenges, AI Gateway Hackathon by Vercel <br/>
 
 <br/>
 
